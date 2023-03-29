@@ -14,7 +14,7 @@ This is a companion project for the Java Brains course on Full Stack Development
 
 ### Matches Page
 
-![Matches Page](/README/matches-page.jpg)
+![Matches Page](ipl-dashboard-master/README/matches-page.jpg)
 
 ## Technologies
 
