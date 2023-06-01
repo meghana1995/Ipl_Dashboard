@@ -2,7 +2,7 @@
 
 Browse your favorite IPL teams and access their past games details, wins and losses ratios - accessible by team and tournament year.
 
-This is a companion project for the Java Brains course on Full Stack Development using Spring Boot and React JS.
+This is a companion project on Full Stack Development using Spring Boot and React JS.
 
 
 
@@ -10,11 +10,13 @@ This is a companion project for the Java Brains course on Full Stack Development
 
 ### Team Page
 
-![Team Page Page](/README/team-page.jpg)
+![image](https://github.com/meghana1995/Ipl_Dashboard/assets/41367602/08e9b1d8-e069-401b-968a-6f08f25bb819)
+
 
 ### Matches Page
 
-![Matches Page](/README/matches-page.jpg)
+![image](https://github.com/meghana1995/Ipl_Dashboard/assets/41367602/d8f2d59d-c0be-497c-99e1-c83cf44ab12d)
+
 
 ## Technologies
 
